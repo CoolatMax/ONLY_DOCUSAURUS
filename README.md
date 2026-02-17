@@ -1,7 +1,7 @@
 ## 🦖 Docusaurus Portfolio: Documentation Infrastructure & Engineering
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/7a855911-12bc-47c5-a2d4-414bcad6d563" width="400" alt="Docusaurus Speed">
+<img src="https://github.com/user-attachments/assets/c01a4338-dd11-47cc-a1ad-81ad0f57716a" width="400" alt="Docusaurus Speed">
 </p>
 
 ### 👤 Shishir Shreedhar Tambe
